@@ -4,7 +4,7 @@
 #include <vector>
 #include <iostream>
 
-using namespace std;
+g namespace std;
 using namespace sf;
 
 #define Max_menu 4
@@ -19,10 +19,10 @@ public:
 	Menu(float alto, float ancho);
 
 	void dibujar(RenderWindow& window);
-	void moveUp(); 
+	void moveUp();
 	void moveDown();
 	
-	int optSelected();
+	int optSelected(); //recibe dato numerico para cierta opcion
 
 	~Menu();
 };
