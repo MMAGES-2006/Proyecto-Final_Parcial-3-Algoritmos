@@ -25,4 +25,38 @@ mainMenu[1].setString("Exit");
 mainMenu[1].setFillColor(Color::Purple);
 mainMenu[1].setCharactersSize(70);
 mainMenu[1].setPosition();
+
+menuSelected = -1;
 } 
+
+void Menu::moveUp()
+{
+	if (menuSelected<0)
+	{
+		menuSelected=0;
+		mainMenu[menuSelected].setFillColor(Color::Purple);
+		menuSelected--;
+	}
+	
+	if (menuSelected<0)
+	{
+		menuSelected=3;
+		mainMenu[menuSelected].setFillColor(Color::Pink);
+	}
+}
+
+void Menu::moveDown()
+{
+	if (menuSelected>3)
+	{
+		menuSelected=3;
+		mainMenu[menuSelected].setFillColor(Color::Purple);
+		menuSelected++;
+	}
+
+	if (menuSelected>3)
+	{
+		menuSelected=0;
+		mainMenu[menuSelected].setFillColor(Color::Pink);
+	}
+}
