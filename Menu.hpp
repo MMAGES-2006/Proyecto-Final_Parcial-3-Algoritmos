@@ -11,8 +11,9 @@ using namespace sf;
 
 class Menu
 {
+private:
 	int menuSelected;
-	Font font;
+	Font font();
 	Text mainMenu[Max_menu];	
 
 public:
