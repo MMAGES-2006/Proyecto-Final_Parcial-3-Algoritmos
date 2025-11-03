@@ -32,8 +32,7 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-10-30T17:51:12.611Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -56,7 +55,7 @@
               "RelativeDocumentMoniker": "..\\..\\Menu.cpp",
               "ToolTip": "C:\\Users\\cjuri\\Desktop\\proyecto algt\\Menu.cpp",
               "RelativeToolTip": "..\\..\\Menu.cpp",
-              "ViewState": "AgIAACEAAAAAAAAAAAAUwDYAAAACAAAAAAAAAA==",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAADoAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-10-30T18:01:00.662Z",
               "EditorCaption": ""
