@@ -10,5 +10,4 @@ using namespace sf;
 int main()
 {
 
-int ESOOOOCHINGAAAAAAAAAAAAAAAAAAAAAAAAAAA;
 }
