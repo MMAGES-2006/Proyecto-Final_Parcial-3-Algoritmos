@@ -61,7 +61,7 @@ void Menu::moveDown()
 	}
 }
 
-void Menu::dibujar(Render &window)
+void Menu::dibujar(RenderWindow &window)
 {
 	for(int i=0; i<Max_menu; i++)
 	{
