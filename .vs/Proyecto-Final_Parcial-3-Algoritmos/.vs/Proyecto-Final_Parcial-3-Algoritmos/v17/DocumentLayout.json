@@ -6,10 +6,10 @@
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cjuri\\Desktop\\proyecto algt\\Menu.cpp||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cjuri\\Desktop\\proyecto algt\\Menu.hpp||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cjuri\\Desktop\\proyecto algt\\main.cpp||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cjuri\\Desktop\\proyecto algt\\main.cpp||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cjuri\\Desktop\\proyecto algt\\Menu.hpp||{3B902123-F8A7-4915-9F01-361F908088D0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,11 +19,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\Users\\cjuri\\Desktop\\proyecto algt\\main.cpp",
               "RelativeDocumentMoniker": "..\\..\\main.cpp",
@@ -32,17 +32,22 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-10-30T17:51:12.611Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Menu.hpp",
               "DocumentMoniker": "C:\\Users\\cjuri\\Desktop\\proyecto algt\\Menu.hpp",
               "RelativeDocumentMoniker": "..\\..\\Menu.hpp",
               "ToolTip": "C:\\Users\\cjuri\\Desktop\\proyecto algt\\Menu.hpp",
               "RelativeToolTip": "..\\..\\Menu.hpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-10-30T18:01:00.743Z",
               "EditorCaption": ""
@@ -55,7 +60,7 @@
               "RelativeDocumentMoniker": "..\\..\\Menu.cpp",
               "ToolTip": "C:\\Users\\cjuri\\Desktop\\proyecto algt\\Menu.cpp",
               "RelativeToolTip": "..\\..\\Menu.cpp",
-              "ViewState": "AgIAADYAAAAAAAAAAAAAADoAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAAAFoAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-10-30T18:01:00.662Z",
               "EditorCaption": ""

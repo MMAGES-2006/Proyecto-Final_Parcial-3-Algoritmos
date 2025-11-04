@@ -69,3 +69,23 @@ void Menu::dibujar(Render &window)
 		
 	}
 }
+
+Menu::~Menu()
+{
+}
+
+int Menu::optSelected()
+{
+	return menuSelected;
+}
+
+Renderwindow mainMENU (VideoMode(960,720), "Menu", Style::Default);
+Menu Menu(mainMENU.getSize().x,mainMENU.getSize().y);
+RectangleShape fondo;
+fondo.setSize(vector2f(960,720));
+Texture UpParking;
+if (!UpParking.loadFromFile())
+{
+	cout << "File not founded :(" ;
+}
+fondo.setTexture(&UpParking);
